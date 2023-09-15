@@ -15,6 +15,6 @@ int main()
         n = n >> 1;                     // Right shift operator
         i++;
     }
-    cout << "the ans is" << ans << endl;
+    cout << "the ans is " << ans << endl;
     return 0;
 }
