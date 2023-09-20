@@ -1,4 +1,5 @@
 // 1009. Complement of Base 10 Integer Lecture 7
+// 1's complement
 #include <iostream>
 using namespace std;
 // step 1: find ~n eg if n=5 ie 00000.....0**101** ~n = 11111......1010
