@@ -1,3 +1,4 @@
 *.exe
 */a.
 codehelp dsa.code-workspace
+.vscode

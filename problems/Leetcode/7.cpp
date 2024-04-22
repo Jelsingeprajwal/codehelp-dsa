@@ -1,6 +1,7 @@
 // 7. Reverse Integer Lecture 7
 
 #include <iostream>
+#include <cstdint>
 using namespace std;
 int main()
 {
