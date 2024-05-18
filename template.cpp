@@ -10,6 +10,8 @@ using namespace std;
 // }
 int main()
 {
+    int *pt;
+    cout << pt;
 
     return 0;
 }
